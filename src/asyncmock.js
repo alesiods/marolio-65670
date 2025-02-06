@@ -1,4 +1,4 @@
-const misProductos = [
+/* const misProductos = [
     { id: "1", nombre: "Yerba", stock:10, precio: 500, img: "../img/yerba.jpg", idCat: "lacteos"},
     { id: "2", nombre: "Fideos", stock:10, precio: 200, img: "../img/fideos.jpg", idCat: "lacteos"},
     { id: "3", nombre: "Arroz", stock:10, precio: 300, img: "../img/arroz.jpg", idCat: "almacen"},
@@ -31,4 +31,4 @@ export const getProductosPorCategoria = (idCategoria) => {
             resolve(productosCategoria);
         }, 1000)
     })
-}
+} */
